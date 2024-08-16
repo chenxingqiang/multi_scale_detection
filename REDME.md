@@ -10,6 +10,7 @@
 ## 项目结构
 
 ```
+
 multi_scale_detection/
 │
 ├── data/                         # 数据集及处理脚本
@@ -34,6 +35,7 @@ multi_scale_detection/
 │   └── visualization.py          # 结果可视化
 │
 └── main.py                       # 主入口
+
 ```
 
 ## 功能与特性
@@ -47,7 +49,7 @@ multi_scale_detection/
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/yourusername/multi_scale_detection.git
+git clone https://github.com/chenxingqiang/multi_scale_detection.git
 cd multi_scale_detection
 ```
 
@@ -97,8 +99,9 @@ python main.py --mode validate
 
 如果你对项目有任何疑问或建议，请通过以下方式联系我们：
 
-- 电子邮件: your.email@example.com
-- GitHub Issues: [https://github.com/yourusername/multi_scale_detection/issues](https://github.com/yourusername/multi_scale_detection/issues)
+- 电子邮件: <joy6677@qq.com>
+- GitHub Issues: [https://github.com/chenxingqiang/multi_scale_detection/issues](https://github.com/chenxingqiang/multi_scale_detection/issues)
+
 ```
 
 ### 说明：
